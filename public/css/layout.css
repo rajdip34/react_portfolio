@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: rgb(8, 0, 22); }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpeg) no-repeat top center;
+   background: black url(../images/header-background.jpeg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -140,7 +140,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgb(2, 0, 37); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #f525f5;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #00477e;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -236,14 +236,14 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #97fafc;
+   background: #102C54;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#resume a:hover, #resume a:focus { color: #1F1F1F; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -253,9 +253,11 @@ ul#nav li.current a { color: #F06000; }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
+   color: #11ABB0;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: #00CCCC;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -304,7 +306,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #7cd5f8;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -417,7 +419,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #6A93B0;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -427,7 +429,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: rgb(1, 0, 36);
 }
 
 /* Portfolio Content */
@@ -794,7 +796,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #232C3F;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
