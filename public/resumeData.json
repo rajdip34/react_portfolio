@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Rajdip",
+    "occupation":"I'm a Full-Stack Web Developer and Cyber Security Engineer",
+    "description":"IT professional with vast knowledge of designing, developing and implementing security solutions for the applications and systems of network, seeks to work as an IT Security Engineer for a renowned organization.",
+    "image":"profilepic.jpg",
+    "bio":"A Full Stack Web Developer with 2 years of experience having an In-depth understanding of web technologies. Involved in design, planning, and implementation of various Web & Mobile applications using open source technologies",
+    "contactmessage":"HAVE A QUESTION WE HAVE ANSWERS !",
+    "email": "rajdipmondal34@gmail.com",
+    "phone": "8240655090",
+    "address":{
+      "street":"Gobaradanga",
+      "city":"Kolkata ,",
+      "state":"West Bangal",
+      "zip": "743252"
+    },
+    "website": "http://securityhub.cf",
+    "resumedownload":"/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100027911660613&ref=bookmarks",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/rajdip34",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Front-end Web Development : React js , Valu js ,Anguler js || Back-end Web Development : Django,Flask, Node js,php Codeigniter",
+    "education":[
+      {
+        "school":"Eminent College Of Management & technology",
+        "degree":"Bachelor of Computer Applications",
+        "graduated":"April 2021",
+        "description":" I was learned c,c++,java ,python,data structure,computer architecture, OS , more ......"
+      },
+      {
+        "school":"Rajballavpur High School",
+        "degree":"10+2",
+        "graduated":"March 2016",
+        "description":"Basic Electrical Theory , Fundamentals of Digital Logic Design"
+      }
+    ],
+    "work":[
+      {
+        "company":"NextResearch.io",
+        "title":"django developer",
+        "years":"March 2018 - Present",
+        "description":"django backend with rest api"
+      },
+      {
+        "company":"RedCoin",
+        "title":"Junior bug fixer",
+        "years":"March 2019 - February 2010",
+        "description":"Web App Security Testing using burp suite"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      },
+      {
+        "name" : "Django",
+        "level" : "90%"
+      },
+      {
+        "name" : "Flask",
+        "level" : "65%"
+      },
+      {
+        "name" : "Node js",
+        "level" : "70%"
+      },
+      {
+        "name" : "Codeigniter",
+        "level" : "45%"
+      },
+      {
+        "name" : "Anguler",
+        "level" : "55%"
+      },
+      {
+        "name" : "linux",
+        "level" : "95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SecurityHub",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"http://securityhub.cf"
+      }
+
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Let’s go invent tomorrow instead of worrying about what happened yesterday.",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important",
+        "user":"Bill Gates"
+      }
+    ]
+  }
+}
